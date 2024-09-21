@@ -1,0 +1,4 @@
+https://www.youtube.com/playlist?list=PL6AQzfGpGRWQKNC2wosYQkNd6o_qR4Dqq обучалка
+
+
+pip install elevate 
